@@ -1,3 +1,4 @@
+FEATURES OF THIS SCRIPT:
 • Autofarm - automatically collects coins without manual input.
 • Auto-trade - trades your godly for better ones.
 • Trade helper - shows the currency of each year and the total.
